@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","style.css"],"names":[],"mappings":"AAAA,GACE,SCCF,CDCE,QAEE,UAAA,CADA,mBAAA,CAAA,mBAAA,CAAA,YCEJ","file":"style.css","sourcesContent":["h1 {\n  color: red;\n\n  span {\n    display: flex;\n    color: blue;\n  }\n}\n","h1 {\n  color: red;\n}\nh1 span {\n  display: flex;\n  color: blue;\n}"]}
